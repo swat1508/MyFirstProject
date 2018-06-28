@@ -1,0 +1,28 @@
+a{
+    color: red;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+ div{
+    width:500px;
+    background: yellow;
+   margin:auto;
+} 
+.assignment1{
+    width:500px;
+/*   background: grey;*/
+   margin:auto;
+   background: grey;
+}
+.borderSilver{
+    width: 300px;
+    height: 50px;
+    border: solid white 2px;
+    text-align: center;    
+}
+.backGroundColor{
+    background: grey;
+    
+}
